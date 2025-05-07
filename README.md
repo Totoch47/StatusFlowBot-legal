@@ -13,7 +13,7 @@
   <p>Dernière mise à jour : [DATE]</p>
 
   <h2>1. Introduction</h2>
-  <p>Le bot Discord <strong>Nova Host</strong> est développé par Uni4Soft. Cette politique de confidentialité décrit les types de données que nous collectons via le bot et comment elles sont utilisées.</p>
+  <p>Le bot Discord <strong>StatusFlowbot</strong> est développé par Totoch. Cette politique de confidentialité décrit les types de données que nous collectons via le bot et comment elles sont utilisées.</p>
 
   <h2>2. Données collectées</h2>
   <ul>
@@ -34,7 +34,7 @@
   <p>Nous ne partageons, vendons ou louons aucune donnée collectée avec des tiers.</p>
 
   <h2>5. Stockage et sécurité</h2>
-  <p>Les données sont stockées de manière sécurisée sur nos serveurs auto-hébergés. Aucune donnée n'est transférée en dehors de l'infrastructure de Uni4Soft.</p>
+  <p>Les données sont stockées de manière sécurisée sur nos serveurs auto-hébergés. Aucune donnée n'est transférée en dehors de l'infrastructure de Flowharware.</p>
 
   <h2>6. Droits des utilisateurs</h2>
   <p>Tout administrateur de serveur peut demander la suppression des données liées à son serveur en contactant : <strong>support@uni4soft.com</strong>.</p>
